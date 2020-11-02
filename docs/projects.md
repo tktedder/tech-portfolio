@@ -12,3 +12,7 @@ You can list [links](https://www.hashicorp.com/resources/test-driven-development
 or even embed images with the following Markdown:
 
 ![Add alternate text for image](./assets/rosemary.png)
+
+This is my retirment age calculator from the first lab for CSC 256.
+
+![Screenshot of python code](./assets/GitHub-Screenshot.PNG)
